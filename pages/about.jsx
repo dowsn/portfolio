@@ -5,7 +5,7 @@ function About() {
   return (
     <>
       <Head>
-        <title>About</title>
+        <title>About Lukas</title>
       </Head>
 
       <Navbar />
