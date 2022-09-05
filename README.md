@@ -2,6 +2,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+`bash node_modules/ \n npm-debug.log* \n yarn-debug.log* \n yarn-error.log\* \n .DS_Store `
+
+
 First, run the development server:
 
 ```bash
